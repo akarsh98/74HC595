@@ -1,4 +1,4 @@
-# 74HC595 Shift Register Tutorial | Arduino 7segment
+# 74HC595 Shift Register IC Insight and Working
 
 ![alt text](https://github.com/akarsh98/74HC595/blob/master/74HC595/3.JPG)
 
@@ -14,10 +14,10 @@ Through this project we will get to know about the Working of this IC, Its Pinou
 ![alt text](https://github.com/akarsh98/74HC595/blob/master/74HC595/7.JPG)
 ![alt text](https://github.com/akarsh98/74HC595/blob/master/74HC595/13.jpg)
 
-You must check out PCBGOGO, the leading [PCB manufacturer](https://www.pcbgogo.com/) with 10+ years in the PCB industry, for ordering PCBs online for cheap!
+Do check PCBGOGO out if you need to get [PCBs manufactured or assembled](https://www.pcbgogo.com/). They welcome your PCB prototype order: PCB fabrication order quantity from 5PCS and PCB assembly order quantity from 1PC.
 
-You get 10 good quality PCBs manufactured and shipped to your doorstep for 5$ and some shipping. You will also get a discount on shipping on your first order.
+PCBGOGO highly specializes in quick-turn PCB manufacturing and [PCB assembly](https://www.pcbgogo.com/pcb-assembly.html) from prototype to mass production. They have three ISO 9001:2015 manufacturing factories, and all the fabricated PCBs and assembled PCBs are high quality and certificated with UL, REACH, and RoHS. Till now, PCBGOGO has the ability to finish 3000+ PCB fabrication and assembly orders per day and the accumulated customers have reached up to 100,000+.
 
-PCBGOGO highly specializes in quick-turn PCB fabrication and [PCB assembly](https://www.pcbgogo.com/pcb-assembly.html) from prototype to mass production. Their three factories cover over 17,000 M2, which are fully compliant with the standard of ISO 9001:2015 Quality Management System. All the fabricated PCBs and assembled PCBs are high quality and certificated with UL, REACH, and RoHS. Till now, PCBGOGO has the ability to finish 3000+ PCB fabrication and assembly orders per day and the accumulated customers have reached up to 100,000+. Do check them out if you need to get PCBs manufactured or assembled. They welcome your sample order with [PCB fabrication](https://www.pcbgogo.com/pcb-fabrication-quote.html) order quantity from 5PCS and PCB assembly order quantity from 1PCB.
+You are lucky to read this project article, as at this time, PCBGOGO welcomes its 5th anniversary. Their customers will get a great discount (up to $150) and memorable souvenirs if you order the [PCB fabrication](https://www.pcbgogo.com/pcb-fabrication-quote.html) and PCB assembly. Let’s expect a miracle from PCBGOGO. The campaign duration: Aug 25th – Sep 25th, 2020
 
 ![alt text](https://github.com/akarsh98/74HC595/blob/master/74HC595/FSOQEP4KDEJ0CPM.png)
